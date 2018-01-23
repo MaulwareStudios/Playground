@@ -73,3 +73,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Playground/Playground/Content/
+Playground/
+NetworkTest/Content/InfinityBladeWarriors/
+NetworkTest/Content/StarterContent/
+NetworkTest/Saved/
+NetworkTest/Intermediate/
+NetworkTest/Content/Textures/
